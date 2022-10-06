@@ -1,1 +1,1 @@
-![My Image](Mobile.PNG)
+![My Image](/img/Mobile.PNG)
